@@ -1,14 +1,14 @@
 # youtube-downloader
 Website utk download video youtube :3
 
-requiredment : 
-- install Nodejs kalo belum punya
+requirement : 
+- install Nodejs if you don't have it
 
 step :
-1. Download repo nya
-2. Ketik ini di terminal :
+1. Download the repo
+2. Type this in the terminal :
    - 'npm init -y'
    - 'npm install express ytdl-core cors'
-3. Aktifkan live server
-4. Run file server.js nya dengan mengetik "node server.js" di cli (terminal)
-5. Website sudah bisa dipakai :3
+3. Activate the live server
+4. Run the server.js file by typing "node server.js" in the cli (terminal)
+5. The website can be used :3
