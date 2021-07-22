@@ -10,7 +10,7 @@ const downloadBtn = elQS('.download');
 // functions
 function downloadBtnFunc() {
     if (URLInput.value == '') {
-        alert('Field gak boleh kosong!');
+        alert('Field cant be empty!');
     } else {
         sendURL(URLInput.value);
     }
